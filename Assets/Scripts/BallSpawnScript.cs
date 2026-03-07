@@ -36,7 +36,7 @@ public class BallSpawnScript : MonoBehaviour
     int ballNameCount = 0;
     int specialBallNameCount = 0;
 
-    // -------------------------------------- inout -------------------------------------- //
+    // -------------------------------------- input -------------------------------------- //
 
     int keyInputTimer = 0;
     
